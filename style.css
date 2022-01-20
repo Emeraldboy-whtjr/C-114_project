@@ -1,0 +1,14 @@
+canvas{
+    border-style: solid;
+    border-color: cyan;
+}
+
+h3{
+    color: rgb(0, 255, 255);
+}
+
+button{
+    background-color: cyan;
+    border-color: cyan;
+    border-radius: 15px;
+}
